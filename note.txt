@@ -1,1 +1,3 @@
 pyinstaller -F -w -i data/AutoInput.ico AutoInput.py
+
+pyinstaller -F  -i data/AutoInput.ico NameGetTool.py
