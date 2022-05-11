@@ -6,7 +6,7 @@
 
 >在'data'文件夹中有'config'&'setting'两个文件
 
-### setting 设置
+### Setting 设置
 >您可以使用 记事本 等 文件读取软件 打开 以修改
 
 >默认设置为
@@ -22,7 +22,7 @@
 'set_autostartcmd':'True',	# 开机自启 True or False 是True 或 否False   注意：只能填入 True 或 False
 }
 ```
-### config 配置
+### Config 配置
 >您可以使用 记事本 等 文件读取软件 打开 以修改
 
 >我们给您预先准备了两个配置 分别为 Microsoft Office Word 与 Microsoft Office PowerPoint
