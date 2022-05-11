@@ -2,6 +2,8 @@
 # = COPYRIGHT © 2020 MOYU STUDIO. ALL RIGHTS RESERVED. = #
 
 import time
+import win32api
+import win32con
 import win32gui
 
 print('')
