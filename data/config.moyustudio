@@ -1,0 +1,14 @@
+{\
+0:{\
+'name' : 'Word',
+	'key_type':'hotkey',	
+	'key' : '',
+	'hotkey':['ctrl','s']
+	},
+1:{\
+'name' : 'PowerPoint',
+	'key_type':'hotkey',
+	'key' : '',
+	'hotkey':['ctrl','s']
+	},
+}
